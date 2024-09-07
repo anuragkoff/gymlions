@@ -1,0 +1,26 @@
+.carouselAll{
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+    margin-top: 20px;
+    position: relative;
+}
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-text{
+    font-size: 2rem;
+    line-height: 1.5;  
+    font-weight: 900;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+activeIndex{
+    border-radius: 50%;
+}

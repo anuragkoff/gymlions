@@ -1,0 +1,32 @@
+.aboutAll{
+    height: 100vh;
+    padding-top: 8%;
+    box-sizing: border-box;
+}
+.girlImg{
+    width: 40vw;
+    height: 70vh;
+    padding: 20px 30px 25px 0;
+    box-sizing: border-box;
+
+    border:none;
+    margin:auto;
+    display:block;
+}
+
+.wWA{
+    text-align: left;
+    margin-top: 15%;
+    color: white;
+    line-height: 2.5em;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+}
+.aboutDesc{
+    text-align: left;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
