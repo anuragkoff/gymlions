@@ -76,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #######################################
 YOU CAN SEE THIS PROJECT ON
 https://gymlions.vercel.app/
+Note** Scroll down the contact page
